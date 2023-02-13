@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\documents\leti\4th semester\algos\lr1\lr1 makarov tomilov\main.cpp
+	<iostream>
+
+1676209566 source:c:\users\user\documents\leti\4th semester\algos\lr1\lr1 makarov tomilov\shape.cpp
+	"pch.h"
+	"screen.h"
+	"shape.h"
+
+1676142429 c:\users\user\documents\leti\4th semester\algos\lr1\lr1 makarov tomilov\pch.h
+	<iostream>
+	<vector>
+	<list>
+	<math.h>
+
+1676135017 c:\users\user\documents\leti\4th semester\algos\lr1\lr1 makarov tomilov\screen.h
+
+1676180848 c:\users\user\documents\leti\4th semester\algos\lr1\lr1 makarov tomilov\shape.h
+	<list>
+
